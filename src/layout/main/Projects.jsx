@@ -9,8 +9,8 @@ function Projects() {
   return (
     <section className="projects">
       <div className="container">
-        <h1 className="service-title" data-aos="fade-up">So'ngi loyihalar</h1>
-        <span className='service-title'>Tez orada....</span>
+        <h1 className="projects-title" data-aos="fade-up">Loyihalar</h1>
+        <span className='projects-line'></span>
       </div>
     </section>
   )
